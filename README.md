@@ -14,7 +14,7 @@ start esx_reload
 
 and add sql file
 
-Inside client and server there is 2 differend languages. Finnish and English, you can chose ever you want
+Inside client and server there is 2 different languages. Finnish and English, you can chose ever you want
 I hope you like my script i did
 ```
 
