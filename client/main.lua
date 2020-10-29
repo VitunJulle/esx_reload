@@ -49,6 +49,7 @@ AddEventHandler('esx_reload:clipreload', function()
   ESX.ShowNotification("~r~Käytit lippaan aseen") -- FIN
   --ESX.ShowNotification("~r~You used a clip") -- ENG
   MakePedReload(GetPlayerPed(-1))
+  SetPedCanSwitchWeapon(GetPlayerPed(-1), true)
   lataus = false
 end)
 
